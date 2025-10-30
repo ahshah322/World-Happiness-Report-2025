@@ -55,8 +55,7 @@ The dataset used is the official **World Happiness Report 2025** (CSV format) co
 ---
 
 ### ▶️ How to Run the Project
-1. Open the notebook in Google Colab:  
-   **[Open in Colab](https://colab.research.google.com/drive/1Ofc41WxZuRbOI4OtAPD5aBujhh1Mg8GO?usp=sharing)**
+1. Open the notebook in Google Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahshah322/World-Happiness-Report-2025/blob/main/notebooks/World_Happiness_Report_2025.ipynb)
 2. Mount your Google Drive (if using drive path).  
 3. Install required libraries:
    ```bash
@@ -65,7 +64,7 @@ The dataset used is the official **World Happiness Report 2025** (CSV format) co
 
 ---
 
-🧠 Insights
+### 🧠 Insights
 
 - Higher GDP, social support, and freedom strongly correlate with greater happiness.
 - Corruption perception shows a negative correlation — nations with lower corruption enjoy higher happiness.
@@ -73,17 +72,15 @@ The dataset used is the official **World Happiness Report 2025** (CSV format) co
 
 ---
 
-📄 License
+### 📄 License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 **Ali Husnain Shah**
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/ahshah322)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahshah322)
-
-
